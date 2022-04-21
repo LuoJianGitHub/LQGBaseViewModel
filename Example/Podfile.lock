@@ -1,0 +1,16 @@
+PODS:
+  - LQGBaseViewModel (1.0.0)
+
+DEPENDENCIES:
+  - LQGBaseViewModel (from `../`)
+
+EXTERNAL SOURCES:
+  LQGBaseViewModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LQGBaseViewModel: 3c626b6422a962526daa4b859934533140588680
+
+PODFILE CHECKSUM: 4886080121c614c9f8b53d13465b4adaaee7658c
+
+COCOAPODS: 1.11.2
